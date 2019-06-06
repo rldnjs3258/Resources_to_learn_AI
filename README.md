@@ -1,4 +1,4 @@
-# Resources_to_learn_AI_and_Machine_Learning
+# Resources_to_learn_AI
 
 <br>
 
